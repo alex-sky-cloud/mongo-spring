@@ -1,0 +1,45 @@
+("stackoverflow",
+"http://stackoverflow.com",
+"http://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico",
+"Stackoverflow website (StackExchange)",
+"for professional and enthusiast programmers");
+
+("serverfault",
+"http://serverfault.com",
+"http://cdn.sstatic.net/Sites/serverfault/img/favicon.ico",
+"Server Fault (StackExchange)",
+"for system and network administrators");
+
+
+("superuser",
+"http://superuser.com",
+"http://cdn.sstatic.net/Sites/superuser/img/favicon.ico",
+"Super User (StackExchange)",
+"for computer enthusiasts and power users");
+
+
+("askubuntu",
+"http://askubuntu.com",
+"http://cdn.sstatic.net/Sites/askubuntu/img/favicon.ico",
+"Ask Ubuntu (StackExchange)",
+"for Ubuntu users and developers");
+
+
+("apple",
+"http://apple.stackexchange.com",
+"http://cdn.sstatic.net/Sites/apple/img/favicon.ico",
+"Ask Different (StackExchange)",
+"for power users of Apple hardware and software");
+
+
+("android",
+"http://android.stackexchange.com",
+"http://cdn.sstatic.net/Sites/android/img/favicon.ico",
+"Android Enthusiasts (StackExchange)",
+"for enthusiasts and power users of the Android operating system");
+
+("ru.stackoverflow",
+"http://ru.stackoverflow.com",
+"http://cdn.sstatic.net/Sites/ru/img/favicon.ico",
+"Stack Overflow нa pycckom (StackExchange)",
+"для программистов")

@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "favicon_url": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico",
+      "audience": "professional and enthusiast programmers",
+      "site_url": "https://stackoverflow.com",
+      "name": "Stack Overflow"
+    },
+    {
+      "favicon_url": "https://cdn.sstatic.net/Sites/serverfault/Img/favicon.ico",
+      "audience": "system and network administrators",
+      "site_url": "https://serverfault.com",
+      "name": "Server Fault"
+    },
+    {
+      "favicon_url": "https://cdn.sstatic.net/Sites/superuser/Img/favicon.ico",
+      "audience": "computer enthusiasts and power users",
+      "site_url": "https://superuser.com",
+      "name": "Super User"
+    },
+    {
+      "favicon_url": "https://meta.stackexchange.com/Content/Sites/stackexchangemeta/Img/favicon.ico",
+      "audience": "meta-discussion of the Stack Exchange family of Q&amp;A websites",
+      "site_url": "https://meta.stackexchange.com",
+      "name": "Meta Stack Exchange"
+    },
+    {
+      "favicon_url": "https://cdn.sstatic.net/Sites/webapps/Img/favicon.ico",
+      "audience": "power users of web applications",
+      "site_url": "https://webapps.stackexchange.com",
+      "name": "Web Applications"
+    },
+    {
+      "favicon_url": "https://cdn.sstatic.net/Sites/webappsmeta/Img/favicon.ico",
+      "audience": "power users of web applications",
+      "site_url": "https://webapps.meta.stackexchange.com",
+      "name": "Web Applications Meta"
+    },
+    {
+      "favicon_url": "https://cdn.sstatic.net/Sites/gaming/Img/favicon.ico",
+      "audience": "passionate videogamers on all platforms",
+      "site_url": "https://gaming.stackexchange.com",
+      "name": "Arqade"
+    },
+    {
+      "favicon_url": "https://cdn.sstatic.net/Sites/gamingmeta/Img/favicon.ico",
+      "audience": "passionate videogamers on all platforms",
+      "site_url": "https://gaming.meta.stackexchange.com",
+      "name": "Arqade Meta"
+    },
+    {
+      "favicon_url": "https://cdn.sstatic.net/Sites/webmasters/Img/favicon.ico",
+      "audience": "pro webmasters",
+      "site_url": "https://webmasters.stackexchange.com",
+      "name": "Webmasters"
+    },
+    {
+      "favicon_url": "https://cdn.sstatic.net/Sites/webmastersmeta/Img/favicon.ico",
+      "audience": "pro webmasters",
+      "site_url": "https://webmasters.meta.stackexchange.com",
+      "name": "Webmasters Meta"
+    }
+  ]
+}
